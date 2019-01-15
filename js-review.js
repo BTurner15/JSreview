@@ -16,3 +16,5 @@ for (var i = 1; i <= 100; i++) {
     console.log(n ? n : i); //OR console.log(n || i);
 }
 
+// for Step 3
+console.log(countBs("BBBBBBBBa"));
