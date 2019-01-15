@@ -18,3 +18,6 @@ for (var i = 1; i <= 100; i++) {
 
 // for Step 3
 console.log(countBs("BBBBBBBBa"));
+//
+// for step 5
+console.log(countChar("kakkerlak", "k"));
